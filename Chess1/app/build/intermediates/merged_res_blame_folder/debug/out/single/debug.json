@@ -1,0 +1,462 @@
+[
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_white_knight.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\white_knight.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_black_bishop.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\black_bishop.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s1.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\s1.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_black.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\black.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_king.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\white_king.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_l.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\l.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_o.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\o.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_pawn.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\white_pawn.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_c.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\c.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_w.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\w.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_chessless.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\chessless.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_e.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\e.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_king.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\white_king.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_h.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\h.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_white_pawn.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\white_pawn.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_queen.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\white_queen.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_black_queen.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\black_queen.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_e1.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\e1.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_king.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\white_king.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_m.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\m.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_e2.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\e2.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_t.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\t.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_black_knight.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\black_knight.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_s2.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\s2.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_white_bishop.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\white_bishop.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_black_queen.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\black_queen.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_rook.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\white_rook.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_black_rook.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\black_rook.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_black.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\black.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_o.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\o.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chessless.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\chessless.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_s2.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\s2.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_w.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\w.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_s1.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\s1.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s2.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\s2.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_e1.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\e1.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_w.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\w.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_e2.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\e2.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_m.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\m.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_black_knight.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\black_knight.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_bishop.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\white_bishop.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_o.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\o.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_pawn.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\white_pawn.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_black_king.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\black_king.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_black_bishop.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\black_bishop.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_m.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\m.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_pawn.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\white_pawn.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_l.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\l.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_l.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\l.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_black_king.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\black_king.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_black_rook.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\black_rook.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_black_rook.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\black_rook.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_queen.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\white_queen.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_white_rook.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\white_rook.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_l.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\l.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\layout_replay.xml.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\layout\\replay.xml"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_knight.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\white_knight.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_w.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\w.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_e.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\e.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_e1.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\e1.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_knight.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\white_knight.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_black_king.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\black_king.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_t.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\t.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chessless.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\chessless.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_bishop.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\white_bishop.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_h.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\h.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_black_knight.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\black_knight.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_black_bishop.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\black_bishop.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_m.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\m.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_o.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\o.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_e2.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\e2.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_rook.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\white_rook.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_black_king.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\black_king.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\white.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_black_pawn.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\black_pawn.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_s1.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\s1.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_c.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\c.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_black_rook.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\black_rook.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_black.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\black.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_black.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\black.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_black_pawn.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\black_pawn.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\layout_chess.xml.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\layout\\chess.xml"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_knight.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\white_knight.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_c.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\c.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\c.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_h.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\h.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_queen.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\white_queen.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_e1.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\e1.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_black_queen.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\black_queen.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_rook.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\white_rook.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_black_bishop.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\black_bishop.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_black_queen.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\black_queen.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_h.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\h.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_black_pawn.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\black_pawn.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_black_knight.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\black_knight.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_t.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\t.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\white.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_white.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\white.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_t.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\t.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_bishop.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\white_bishop.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_white_king.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\white_king.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_e.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\e.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_s1.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\s1.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_s2.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\s2.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_black_pawn.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\black_pawn.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_e2.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\e2.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_e.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-xhdpi\\e.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_chessless.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-mdpi\\chessless.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_white_queen.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-ldpi\\white_queen.png"
+    },
+    {
+        "merged": "C:\\Chess1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white.png.flat",
+        "source": "C:\\Chess1\\app\\src\\main\\res\\drawable-hdpi\\white.png"
+    }
+]

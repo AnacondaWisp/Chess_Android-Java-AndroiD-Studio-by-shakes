@@ -1,0 +1,78 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Chess Pieces\
+* Chess Pieces\Black Bishop.png
+* Chess Pieces\Black King.png
+* Chess Pieces\Black Knight.png
+* Chess Pieces\Black Pawn.png
+* Chess Pieces\Black Queen.png
+* Chess Pieces\Black Rook.png
+* Chess Pieces\Chess-Less.png
+* Chess Pieces\Pieces.pptx
+* Chess Pieces\White Bishop.png
+* Chess Pieces\White King.png
+* Chess Pieces\White Knight.png
+* Chess Pieces\White Pawn.png
+* Chess Pieces\White Queen.png
+* Chess Pieces\White Rook.png
+* README.md
+* black-web.png
+* black_bishop-web.png
+* black_king-web.png
+* black_knight-web.png
+* black_pawn-web.png
+* black_queen-web.png
+* black_rook-web.png
+* blackhorse-web.png
+* c-web.png
+* chessless-web.png
+* e-web.png
+* e1-web.png
+* e2-web.png
+* h-web.png
+* l-web.png
+* m-web.png
+* o-web.png
+* proguard-project.txt
+* s1-web.png
+* s2-web.png
+* t-web.png
+* w-web.png
+* white-web.png
+* white_bishop-web.png
+* white_king-web.png
+* white_knight-web.png
+* white_pawn-web.png
+* white_queen-web.png
+* white_rook-web.png
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

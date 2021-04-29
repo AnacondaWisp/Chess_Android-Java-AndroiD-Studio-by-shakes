@@ -1,0 +1,54 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="cs213.chess.android"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="10"
+8-->C:\Chess1\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="10" />
+9-->C:\Chess1\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Chess1\app\src\main\AndroidManifest.xml:7:5-26:19
+12        android:debuggable="true"
+13        android:icon="@drawable/ic_launcher"
+13-->C:\Chess1\app\src\main\AndroidManifest.xml:8:9-45
+14        android:label="@string/app_name"
+14-->C:\Chess1\app\src\main\AndroidManifest.xml:9:9-41
+15        android:testOnly="true" >
+16        <activity
+16-->C:\Chess1\app\src\main\AndroidManifest.xml:10:9-17:20
+17            android:name="cs213.chess.android.AndroidChessMain"
+17-->C:\Chess1\app\src\main\AndroidManifest.xml:11:13-45
+18            android:label="@string/app_main" >
+18-->C:\Chess1\app\src\main\AndroidManifest.xml:12:13-45
+19            <intent-filter>
+19-->C:\Chess1\app\src\main\AndroidManifest.xml:13:13-16:29
+20                <action android:name="android.intent.action.MAIN" />
+20-->C:\Chess1\app\src\main\AndroidManifest.xml:14:17-69
+20-->C:\Chess1\app\src\main\AndroidManifest.xml:14:25-66
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->C:\Chess1\app\src\main\AndroidManifest.xml:15:17-77
+22-->C:\Chess1\app\src\main\AndroidManifest.xml:15:27-74
+23            </intent-filter>
+24        </activity>
+25        <activity
+25-->C:\Chess1\app\src\main\AndroidManifest.xml:18:9-21:20
+26            android:name="cs213.chess.android.AndroidChessActivity"
+26-->C:\Chess1\app\src\main\AndroidManifest.xml:19:13-49
+27            android:label="@string/chess_activity" >
+27-->C:\Chess1\app\src\main\AndroidManifest.xml:20:13-51
+28        </activity>
+29        <activity
+29-->C:\Chess1\app\src\main\AndroidManifest.xml:22:9-25:20
+30            android:name="cs213.chess.android.AndroidChessReplay"
+30-->C:\Chess1\app\src\main\AndroidManifest.xml:23:13-47
+31            android:label="@string/chess_replay" >
+31-->C:\Chess1\app\src\main\AndroidManifest.xml:24:13-49
+32        </activity>
+33    </application>
+34
+35</manifest>

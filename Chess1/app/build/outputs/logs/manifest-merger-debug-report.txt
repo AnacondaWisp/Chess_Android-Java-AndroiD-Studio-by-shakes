@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:7:5-26:19
+	android:label
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:8:9-45
+activity#cs213.chess.android.AndroidChessMain
+ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:10:9-17:20
+	android:label
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:11:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:15:27-74
+activity#cs213.chess.android.AndroidChessActivity
+ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:18:9-21:20
+	android:label
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:20:13-51
+	android:name
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:19:13-49
+activity#cs213.chess.android.AndroidChessReplay
+ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:22:9-25:20
+	android:label
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml:23:13-47
+uses-sdk
+INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Chess1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Chess1\app\src\main\AndroidManifest.xml
